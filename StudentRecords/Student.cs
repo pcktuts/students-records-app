@@ -138,7 +138,7 @@ namespace StudentRecords
 					Console.WriteLine("Invalid input, try agian");
 					goto retry;
 
-				}
+				} 
 				
 
 			}
