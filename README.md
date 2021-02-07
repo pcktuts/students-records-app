@@ -44,7 +44,7 @@ Choose a menu item {1..5}
 Roll no         Name            Total           Gender
 1               krishna         80              m
 
-2               Joseph          45              m
+2               Joseph          85              m
 
 =====================================================
 ```
