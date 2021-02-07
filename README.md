@@ -1,5 +1,7 @@
 # students-records-app
 
+## A sample output
+
 ```bash
 Choose a menu item {1..5}
 1.Add Details
